@@ -1,0 +1,22 @@
+{
+  "AsteroidRocks01": "Астероид 1",
+  "AsteroidRocks02": "Астероид 2",
+  "AsteroidRocks03": "Астероид 3",
+  "AsteroidRocks04": "Астероид 4",
+  "AsteroidRocks05": "Астероид 5",
+  "ChromiumOre": "Хром",
+  "CobaltOre": "Кобальт",
+  "CopperOre": "Медь",
+  "GoldOre": "Золото",
+  "IceOre": "Лед",
+  "IronOre": "Железо",
+  "LeadOre": "Вести",
+  "MagnesiumOre": "Магний",
+  "NickelOre": "Никель",
+  "PlatinumOre": "Платина",
+  "SiliconOre": "Кремний",
+  "SilverOre": "Серебро",
+  "StoneOre": "Камень",
+  "TitaniumOre": "Титан",
+  "UraniumOre": "Уран"
+}

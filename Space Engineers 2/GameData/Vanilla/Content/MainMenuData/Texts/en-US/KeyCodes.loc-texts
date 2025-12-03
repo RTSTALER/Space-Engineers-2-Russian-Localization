@@ -1,0 +1,19 @@
+{
+    "KeyCode_Return": "Return",
+    "KeyCode_Shift": "SHIFT",
+    "KeyCode_Control": "CTRL",
+    "KeyCode_Alt": "ALT",
+    "KeyCode_Capital": "CAPS",
+    "KeyCode_OemPlus": "+",
+    "KeyCode_OemComma": ",",
+    "KeyCode_OemMinus": "-",
+    "KeyCode_OemPeriod": ".",
+    "KeyCode_OemForwardSlash": "/",
+    "KeyCode_OemBacktick": "`",
+    "KeyCode_OemOpenBrackets": "{",
+    "KeyCode_OemCloseBrackets": "}",
+    "KeyCode_OemQuotes": "\"",
+    "KeyCode_NumpadAdd": "Numpad +",
+    "KeyCode_NumpadSubtract": "Numpad -",
+    "KeyCode_NumpadDivide": "Numpad /"
+}

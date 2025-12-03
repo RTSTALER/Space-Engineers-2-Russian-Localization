@@ -1,0 +1,17 @@
+{
+  "KillMessageSuffocation": "Ваша система жизнеобеспечения вышла из строя.",
+  "KillMessageNoEnergy": "Ваша система жизнеобеспечения вышла из строя.",
+  "KillMessageWeapon": "Вы были смертельно ранены из огнестрельного оружия.",
+  "KillMessageExplosive": "Вы погибли от взрыва неподалеку.",
+  "KillMessageImpact": "Вы погибли в результате столкновения.",
+  "KillMessageWeather": "Вы были смертельно ранены в результате погодных условий.",
+  "KillMessageAccident": "Вы погибли в результате несчастного случая на производстве.",
+  "KillMessageRadiation": "Вы были отравлены радиоактивным газом.",
+  "KillMessageRespawn": "Вы запросили возрождение вручную.",
+  "KillMessageHibernation": "Вы умерли в своей криокамере, когда она была уничтожена.",
+  "KillMessageTimeout": "С возвращением.",
+  "RespawnPendingText": "Возрождается...",
+  "DeathFanFareTitle": "{DeathReason}",
+  "KillMessageCustomDamageSource": "",
+  "KillMessageUnknown": "Ты умер."
+}

@@ -1,0 +1,189 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.1.3701"
+  },
+  "$Type": "VRage:Keen.VRage.Library.Localization.CultureInfoAssetDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "df143f5b-70d0-4ccd-8da2-fc1336a83772",
+    "LocalizedName": "Russia (Русский)",
+    "Id": "en-US",
+    "Resources": [
+      {
+        "Key": "77e0d216-2dba-44e7-a470-336620aafa8b",
+        "Value": {
+          "ContentId": "SE2CoreTexts",
+          "Asset": "{G}0d1d5d4c-913e-44f4-a4c1-8846ec2bf7c3"
+        }
+      },
+      {
+        "Key": "43c44215-724c-4b98-83d7-307a1a96a24d",
+        "Value": {
+          "ContentId": "Dialogs",
+          "Asset": "{G}5938ff69-2296-4f54-82c4-db1605b2db5e"
+        }
+      },
+      {
+        "Key": "81c31cba-4ac4-4392-9f3f-ae697963f1d1",
+        "Value": {
+          "ContentId": "BlockNames",
+          "Asset": "{G}b695b4f5-ed2b-4ca8-a0dd-71921bc5b273"
+        }
+      },
+      {
+        "Key": "2f643854-9bff-43e9-89a8-4d2febb92e66",
+        "Value": {
+          "ContentId": "BlockDescriptions",
+          "Asset": "{G}77d90607-784f-4bb7-b758-c0081f20012b"
+        }
+      },
+      {
+        "Key": "5a4bf8f3-7e6b-4685-b2dc-f4b233b766cd",
+        "Value": {
+          "ContentId": "BlockSizes",
+          "Asset": "{G}83b6b56c-3cfe-434e-bc7d-308f541a03d7"
+        }
+      },
+      {
+        "Key": "e4714e7c-1003-416a-972f-2112ee7ad002",
+        "Value": {
+          "ContentId": "Items",
+          "Asset": "{G}e4c02747-1593-49e9-b80c-18d32eb8b6c8"
+        }
+      },
+      {
+        "Key": "f0126d77-e997-4f14-8778-2eb91ba99675",
+        "Value": {
+          "ContentId": "LoadingScreenQuotes",
+          "Asset": "{G}b80f72e3-86f4-4288-976a-5fd856759d7e"
+        }
+      },
+      {
+        "Key": "c60de0b5-a997-4230-a2b5-00e8d9e281f2",
+        "Value": {
+          "ContentId": "Categories",
+          "Asset": "{G}ad13d734-9b4e-415f-b2b2-967a268c23cc"
+        }
+      },
+      {
+        "Key": "c255a26e-d2c7-43c2-b2f4-f5782b4ca26d",
+        "Value": {
+          "ContentId": "Subcategories",
+          "Asset": "{G}56336558-00b5-490a-beb5-dc9c1f1e26db"
+        }
+      },
+      {
+        "Key": "866e7cc2-147f-4c99-ab09-ee03ed8e42b6",
+        "Value": {
+          "ContentId": "BlockGroups",
+          "Asset": "{G}a0d46e45-a352-48ea-90d8-416ad16fe88a"
+        }
+      },
+      {
+        "Key": "faf68a3c-394e-4058-879d-d6e040bc4f86",
+        "Value": {
+          "ContentId": "Settings",
+          "Asset": "{G}7b880bdc-9cd2-4902-a3ff-84f605a844bd"
+        }
+      },
+      {
+        "Key": "6cbe5efb-5be5-4607-802a-cef7b01f064b",
+        "Value": {
+          "ContentId": "Help",
+          "Asset": "{G}9fe01358-4047-41ad-9b4c-a1ba492dd017"
+        }
+      },
+      {
+        "Key": "57e84866-b4ec-4b3d-83f5-77d6f757aec0",
+        "Value": {
+          "ContentId": "Controls",
+          "Asset": "{G}e7ae2a42-31ff-4b1c-9803-d7a667d7e1ee"
+        }
+      },
+      {
+        "Key": "d38b9e7e-8aa9-47dc-9196-59e8dd043500",
+        "Value": {
+          "ContentId": "KeyCodes",
+          "Asset": "{G}f1c61d20-a08c-4fc2-85e7-b91e0aba8d0f"
+        }
+      },
+      {
+        "Key": "85d6c043-8bab-40fb-91a0-83014936b142",
+        "Value": {
+          "ContentId": "News",
+          "Asset": "{G}23adf0ef-3916-4e2e-a709-29b947e98764"
+        }
+      },
+      {
+        "Key": "de02c940-627f-4d0f-92b7-a49de4b5d5c8",
+        "Value": {
+          "ContentId": "VoxelMaterials",
+          "Asset": "{G}3f109bf1-3ea3-484e-ac05-d8ad614a93a3"
+        }
+      },
+      {
+        "Key": "ee2b5d3a-2413-49e2-82ce-72c8dcfce025",
+        "Value": {
+          "ContentId": "UGCTags",
+          "Asset": "{G}fa9bbc4c-e831-4d0f-9b83-e7902d21c6e0"
+        }
+      },
+      {
+        "Key": "22ca8859-2780-41e7-a94d-6806c9148d76",
+        "Value": {
+          "ContentId": "Deaths",
+          "Asset": "{G}896c6303-2387-4042-9958-afef6169a3ac"
+        }
+      },
+      {
+        "Key": "b0644dcd-121b-47a8-9a2c-0523e1006e28",
+        "Value": {
+          "ContentId": "OnboardingTooltips",
+          "Asset": "{G}14299b4b-1f14-44c7-95cf-a29ad6164b5a"
+        }
+      },
+      {
+        "Key": "2c9f4176-a2dc-495a-97ee-5348f95b40ef",
+        "Value": {
+          "ContentId": "Discoveries",
+          "Asset": "{G}fc198cc9-7b58-46ca-924b-771427e61b90"
+        }
+      },
+      {
+        "Key": "fe39f004-9023-454b-a0e0-1d35463f041d",
+        "Value": {
+          "ContentId": "CreativeObjectives",
+          "Asset": "{G}2f24a921-8eaf-43ba-824a-f58814796736"
+        }
+      },
+      {
+        "Key": "db2fefc0-8198-476a-9c1e-82587659ee72",
+        "Value": {
+          "ContentId": "Colonization",
+          "Asset": "{G}ec8adabc-c76a-4c8a-a09a-9c53e80b8e15"
+        }
+      },
+      {
+        "Key": "2361ccd0-cdbb-414c-8daa-fb1182c6e553",
+        "Value": {
+          "ContentId": "SurvivalObjectives",
+          "Asset": "{G}8dcd06af-cabe-4358-8311-22cf66c9c358"
+        }
+      },
+      {
+        "Key": "c2a1bdd6-8244-4e4a-a132-1592a8bcc723",
+        "Value": {
+          "ContentId": "Contracts",
+          "Asset": "{G}2adf2a00-ddde-4278-9d46-f4bee4c033d4"
+        }
+      },
+      {
+        "Key": "6dbd4a25-d01c-4459-88cc-74e73edf6d78",
+        "Value": {
+          "ContentId": "ProgressionRewards",
+          "Asset": "{G}abb5933e-50c7-4d79-9ef1-b994e10d5920"
+        }
+      }
+    ]
+  }
+}
