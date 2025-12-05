@@ -14,7 +14,7 @@
   "ModTagBlock": "Блок",
   "ModTagCharacter": "Персонаж",
   "ModTagMaterial": "Материал",
-  "ModTagOther": "Другой",
+  "ModTagOther": "Другое",
   "ModTagParticles": "Частицы",
   "ModTagSkybox": "Скайбокс",
   "WorldTagsCategory": "Миры",
@@ -23,7 +23,7 @@
   "WorldTagShowcase": "Витрина",
   "WorldTagSpaceFocused": "Ориентированный на космос",
   "WorldTagTestingWorld": "Мир тестирования",
-  "UGCBlueprintTypeTag": "План",
+  "UGCBlueprintTypeTag": "Чертежи",
   "UGCModTypeTag": "Модификация",
   "UGCWorldTypeTag": "Мир"
 }
