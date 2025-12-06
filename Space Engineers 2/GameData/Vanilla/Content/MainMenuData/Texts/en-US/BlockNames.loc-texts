@@ -238,7 +238,7 @@
   "RefineryProgression": "Технический уровень нефтеперерабатывающего завода. Блоки: {-1}",
   "FabricatorProgression": "Технический уровень производителя. Блоки: {-1}",
   "TestBlock": "Тестовый блок",
-  "ContractsBlock": "Блок контрактов",
+  "ContractsBlock": "Список контрактов",
   "Barrel": "Бочка",
   "ContractTerminal": "Контрактный терминал",
   "AssemblerProgressionConcise": "Ассемблер",
