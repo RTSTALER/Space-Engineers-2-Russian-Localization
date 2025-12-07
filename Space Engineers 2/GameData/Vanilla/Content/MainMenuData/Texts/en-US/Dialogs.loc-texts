@@ -42,7 +42,7 @@
   "DialogPendingChangesContent": "Настройки не сохранены. Хотите ли вы отменить их?",
   "DeleteWorldDialogTitle": "Удалить мир",
   "DeleteWorldDialogContent": "Вы уверены, что хотите удалить этот мир?",
-  "DialogLoadingFailed": "Не удалось выполнить загрузку",
+  "DialogLoadingFailed": "Не удалось выполнить корректную загрузку",
   "DialogLoadingFailedContent": "Не удалось загрузить мир. Подробности смотрите в log-файлах.",
   "DialogLoadingFailedContentCorrupted": "Не удалось загрузить мир. Обнаружены поврежденные файлы.",
   "DialogLoadingFileCorrupted": "С большой вероятностью это вызывает русификатор, так как он заменяет оригинальные файлы.\nЭто можно считать нормой и нажать «Хорошо» - на игровой процесс это никак не влияет.",

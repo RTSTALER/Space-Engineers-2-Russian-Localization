@@ -172,7 +172,7 @@
   "ProgrammableBlock": "Программируемый блок",
   "Projector": "Проектор",
   "Ramp": "Рампа",
-  "Refinery": "Переработка",
+  "Refinery": "Переработчик",
   "RemoteControl": "дистанционное управление",
   "Rotor": "Ротор",
   "RotorHead": "Головка ротора",
@@ -243,6 +243,6 @@
   "ContractTerminal": "Контрактный терминал",
   "AssemblerProgressionConcise": "Сборочный цех",
   "SmelterProgressionConcise": "Плавильный цех",
-  "RefineryProgressionConcise": "Переработка",
+  "RefineryProgressionConcise": "Переработчик",
   "FabricatorProgressionConcise": "Изготовитель"
 }
