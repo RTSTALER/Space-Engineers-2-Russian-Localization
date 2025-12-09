@@ -3,6 +3,8 @@
   "DisclaimerOptionDescription": "Показывать информацию о раннем доступе при запуске игры.",
   "EnableAutosaveOptionName": "Включить автосохранение",
   "EnableAutosaveOptionDescription": "Если эта функция включена, игра автоматически сохраняет ваш мир через определенные промежутки времени.\n\nПримечание: Эта функция будет применяться только к последнему созданному миру.",
+  "GameModeOptionName": "Вариант игры",
+  "GameModeOptionDescription": "Позволяет переключиться между творческим режимом и выживанием.",
   "EnableToastNotificationsOptionName": "Включить всплывающие уведомления",
   "EnableToastNotificationsOptionDescription": "Включает систему уведомлений, предоставляющую полезную информацию. Например, оповещение о том, что вы приближаетесь к своему лимиту PCU.",
   "UIBackgroundOpacityOptionName": "Прозрачность фона меню",
