@@ -128,7 +128,7 @@
   "DialogApplyModChangesToSaveContent": "Сохранение списка измененных модов...",
   "MissionFailedTitle": "Прогресс заблокирован",
   "MissionFailedContent": "Критический блок был уничтожен. Вы можете перезагрузить свою последнюю контрольную точку, чтобы продолжить, или вернуться в главное меню.",
-  "MissionFailedReloadSave": "Перезагрузите последнюю контрольную точку",
+  "MissionFailedReloadSave": "Последнее сохранение",
   "MissionFailedExitToMenu": "Главное меню",
   "AddMarkerDialogTitle": "Добавить новый маркер",
   "AddMarkerDialogContent": "Пожалуйста, введите название маркера",
