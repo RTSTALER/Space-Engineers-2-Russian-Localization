@@ -278,6 +278,7 @@
   "SettingsCustomizePrimaryControl": "Настройка основного управления",
   "SettingsCustomizeSecondaryControl": "Настройка вторичного управления",
   "SettingsResetControl": "Сброс к значению по умолчанию",
+  "SettingsUnbindPrimary": "Отвязать основное управляние",
   "NewGameScreenTitle": "Новая игра",
   "NewGameCampaign": "Кампания",
   "NewGameCampaignDescription": "Узнайте о судьбе системы Альмагест",

@@ -1,8 +1,8 @@
 {
   "LocationSpace": "Космос",
   "LocationVerdureRing": "The Viridian Halo",
-  "LocationVerdure": "VERDURE",
-  "LocationKemik": "KEMIK",
+  "LocationVerdure": "Verdure",
+  "LocationKemik": "Kemik",
   "BlankText": "",
   "ContractFailureDefault": "Критически важный блок был уничтожен. Контракт не был выполнен.",
   "ContractFailureDestroyedBlocks": "Вы уничтожили критически важные блоки",
