@@ -1,6 +1,6 @@
 {
-  "SectorColonizedFanfareTitle": "{SectorName} колонизирован",
-  "SectorColonizedFanfareText": "",
-  "SectorUnreleasedTitle": "Сектор не доступен",
-  "SectorUnreleasedText": "Контент для следующего сектора еще не выпущен. Следите за будущими обновлениями игры."
+  "SectorColonizedFanfareTitle": "Сектор {SectorName} освоен",
+  "SectorColonizedFanfareText": "Открыт новый маршрут быстрого перемещения",
+  "SectorUnreleasedTitle": "Сектор ещё недоступен",
+  "SectorUnreleasedText": "Контент для следующего сектора ещё не выпущен. Следите за будущими обновлениями игры."
 }
