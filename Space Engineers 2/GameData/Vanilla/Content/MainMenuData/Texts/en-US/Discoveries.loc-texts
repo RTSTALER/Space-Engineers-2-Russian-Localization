@@ -1,5 +1,5 @@
 {
   "DiscoveryFanfareTitle": "Новое открытие!",
-  "DiscoveryFanfareText": "Вы нашли {DiscoveryName}.",
-  "DiscoveryUnknown": "Неизвестное"
+  "DiscoveryFanfareText": "Вы обнаружили {DiscoveryName}.",
+  "DiscoveryUnknown": "Неизвестно"
 }
