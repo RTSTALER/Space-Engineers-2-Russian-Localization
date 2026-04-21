@@ -45,7 +45,7 @@
   "DialogLoadingFailed": "Ошибка загрузки",
   "DialogLoadingFailedContent": "Не удалось загрузить мир. Подробности смотрите в логе.",
   "DialogLoadingFailedContentCorrupted": "Не удалось загрузить мир. Обнаружены повреждённые файлы. Подробности смотрите в логе.",
-  "DialogLoadingFileCorrupted": "Обнаружены повреждённые файлы. Возможны ошибки.",
+  "DialogLoadingFileCorrupted": "Ошибка целостности файлов перевода.\n\nПричина: неофициальная русификация.\nЭто сообщение можно игнорировать.\nОжидайте официальную поддержку языка в будущих обновлениях.",
   "SaveFailureDialogTitle": "Ошибка сохранения",
   "SaveFailureDialogContent": "Не удалось сохранить игру. Подробности смотрите в логе.",
   "SaveSuccessfullyDialogTitle": "Сохранение успешно",
