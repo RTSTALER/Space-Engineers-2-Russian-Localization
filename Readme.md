@@ -7,7 +7,7 @@
 > [RTSTALER](https://github.com/RTSTALER) • [DiplomatL2](https://github.com/DiplomatL2) • [itsbuyru-bit](https://github.com/itsbuyru-bit)
 
 > 📚 **Глоссарий терминов:**  
-> [SpaceEnginers_v1_local_ru-RU.json](https://github.com/itsbuyru-bit/Space-Engineers-2-Russian-Localization/blob/main/SpaceEnginers_v1_local_ru-RU.json)
+> [SpaceEnginers_v1_local_ru-RU.json](https://github.com/RTSTALER/Space-Engineers-2-Russian-Localization/blob/main/SpaceEnginers_v1_local_ru-RU.json)
 
 ---
 
